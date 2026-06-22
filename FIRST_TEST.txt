@@ -1,0 +1,3 @@
+Paste this into N GEO Local JARVIS:
+
+Work only in the current workspace. Open loc.txt, show me its contents, and propose changing line 3 to apple. Do not change anything until I approve.
