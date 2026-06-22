@@ -1,0 +1,3 @@
+Create a GitHub issue with title [JARVIS-TASK] Test list workspace and body:
+ACTION: list_directory
+PATH: .
