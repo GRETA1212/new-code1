@@ -1,0 +1,16 @@
+SAFE TEST TASK
+ACTION: list_directory
+PATH: .
+
+OTHER ALLOWED ACTIONS
+ACTION: read_file
+PATH: loc.txt
+
+ACTION: git_status
+PATH: projects\ngeo-cadastre-platform
+
+ACTION: check_port
+PORT: 3001
+
+ACTION: ask_ollama
+PROMPT: Explain the purpose of a FastAPI health endpoint in two sentences.
